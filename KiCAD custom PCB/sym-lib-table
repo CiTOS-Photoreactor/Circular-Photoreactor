@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "components")(type "KiCad")(uri "${KIPRJMOD}/components.kicad_sym")(options "")(descr "")(disabled))
+  (lib (name "Components")(type "KiCad")(uri "${KIPRJMOD}/Components.pretty/Components.kicad_sym")(options "")(descr ""))
+)
